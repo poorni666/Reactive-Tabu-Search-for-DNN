@@ -1,0 +1,30 @@
+Loading MNIST subset
+Building network...
+Network weights (flattened): 50890
+Bits per weight            : 8
+Total possible moves       : 407,120
+Initial loss               : 2.3452
+Initial accuracy           : 0.093
+
+Starting RTS.
+
+  iter   500 | loss 1.8881 | best 1.8881 | list_size 1.0 | escapes 0
+  iter  1000 | loss 1.5237 | best 1.5237 | list_size 1.0 | escapes 0
+  iter  1500 | loss 1.1789 | best 1.1789 | list_size 1.0 | escapes 0
+  iter  2000 | loss 0.9480 | best 0.9480 | list_size 1.0 | escapes 0
+  iter  2500 | loss 0.7521 | best 0.7521 | list_size 1.0 | escapes 0
+  iter  3000 | loss 0.6103 | best 0.6103 | list_size 1.0 | escapes 0
+  iter  3500 | loss 0.5059 | best 0.5059 | list_size 1.0 | escapes 0
+  iter  4000 | loss 0.4276 | best 0.4276 | list_size 1.0 | escapes 0
+  iter  4500 | loss 0.3645 | best 0.3645 | list_size 1.0 | escapes 0
+  iter  5000 | loss 0.3161 | best 0.3161 | list_size 1.0 | escapes 0
+RESULTS
+Best loss            : 0.3161
+Final accuracy       : 0.927
+Total iterations     : 5000
+Escape count         : 0
+Cycle detections     : 0
+Aspiration count     : 0
+Unique configs seen  : 5000
+Bits for hashing     : 13
+Time taken           : 494.7s
